@@ -1,0 +1,13 @@
+#This page describes the stakeholders of rowbuddy.
+
+= Stakeholders =
+ # Jan Trzeszkowski 
+ # Rower
+ # Regatta administration
+ # Rowerclub
+ # Uwe van Heesch 
+ # Developer
+
+= Description =
+
+Add your content here. 
