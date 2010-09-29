@@ -6,7 +6,7 @@
  # Regatta administration
  # Rowerclub
  # Uwe van Heesch 
- # Developer
+ # Developers
 
 = Description =
 
