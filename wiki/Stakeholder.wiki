@@ -1,12 +1,12 @@
 #This page describes the stakeholders of rowbuddy.
 
 = Stakeholders =
- # Jan Trzeszkowski 
- # Rower
- # Regatta administration
- # Rowerclub
- # Uwe van Heesch 
- # Developers
+ * *Jan Trzeszkowski:* 
+ * *Rower:*Use the application to log their routes, communicate with other rowers
+ * *Regatta administration:*
+ * *Rowerclub:*
+ * *Uwe van Heesch:*Mr. van Heesch is the docent of the JEE course. He will support the group in order to keep the quality as high as possible. 
+ * *Developers:*Developers are students who visit the JEE course (2010--2011). They are responsible for design, test and implementation.
 
 = Description =
 
