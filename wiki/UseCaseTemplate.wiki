@@ -1,0 +1,7 @@
+#summary High level usecase template
+
+|| *Name:* || Login ||
+|| *Actors:*|| user ||
+|| *Input data:*|| username; password||
+|| *Preconditions:*|| System is available||
+|| *Description:*|| <ul> <li>First item <li>Second item <li>Third item ||
