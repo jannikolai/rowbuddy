@@ -5,3 +5,4 @@
 || *Input data:*|| username; password||
 || *Preconditions:*|| System is available||
 || *Description:*|| <ul> <li>First item <li>Second item <li>Third item ||
+|| *Postconditions:*|| Session has been created ||
