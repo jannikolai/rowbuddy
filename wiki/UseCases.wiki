@@ -3,15 +3,15 @@
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/MemberProfiles.png Member Profile] =
 
 ||Use case||Who?||Done||
-||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/export/login.png Login]||hei||x||
-||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/export/logout.png Logout]||hei||x||
-||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/export/request_new_password.png Request new password]||hei||x||
-||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/export/change_password.png Change password]||hei||x||
-||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Publish route on profile]||hei||x||
-||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Remove route from profile]||hei||x||
-||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/export/view_profile.png View profile]||hei||x||
-||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/export/search_profle.png Search profile]||hei||x||
-||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Rowed routes]||hei||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/login.png Login]||hei||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/logout.png Logout]||hei||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/request_new_password.png Request new password]||hei||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/change_password.png Change password]||hei||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Publish route on profile]||hei||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Remove route from profile]||hei||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/view_profile.png View profile]||hei||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/search_profle.png Search profile]||hei||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Rowed routes]||hei||x||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Boats.png Boats] =
 
