@@ -47,3 +47,16 @@
 ||Boat KM Highscore Year List||-||-||
 ||Popular Routes||-||-||
 ||Boatdamages Year Statistic||-||-||
+
+= Trips =
+||Browse Personal Trips||-||-||
+||Browse Personal Open Trips||-||-||
+||Brwose Open Trips||-||-||
+||Log rowed trip||-||-||
+||Start rowing||-||-||
+||Log damaged boat||-||-||
+||Stop Rowing||-||-||
+||Edit Trip||-||-||
+
+= Menu =
+||Create page menu||-||-||
