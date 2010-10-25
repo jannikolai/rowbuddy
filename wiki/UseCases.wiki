@@ -13,6 +13,7 @@
 ||Remove route from profile||hei||-||
 ||View profile||hei||-||
 ||Search profile||hei||-||
+||Rowed routes||-||-||
 
 = Boats =
 <img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Boats.png >
