@@ -24,7 +24,7 @@
 = Members = 
 ||Import members||wal||x||
 ||Add member||wal||x||
-||Edit member||wal||-||
+||Edit member||wal||x||
 ||Deactivate member||wal||-||
 ||Activate member||wal||-||
 ||Delete member||wal||-||
