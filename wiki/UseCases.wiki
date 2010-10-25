@@ -60,7 +60,7 @@
 ||Brwose Open Trips||wal||x||
 ||Log rowed trip||wal||x||
 ||Start rowing||wal||x||
-||Log damaged boat||-||-||
+||Log damaged boat||wal||x||
 ||Stop Rowing||wal||x||
 ||Edit Trip||wal||x||
 
