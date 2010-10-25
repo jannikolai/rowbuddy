@@ -67,6 +67,6 @@
 ||Edit damage||-||-||
 
 = Boat reservations =
-||Browse reservations||-||-||
-||Add reservation||-||-||
-||Delete reservation||-||-||
+||Browse reservations||gef||-||
+||Add reservation||gef||-||
+||Delete reservation||gef||-||
