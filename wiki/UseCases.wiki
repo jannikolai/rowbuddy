@@ -15,6 +15,8 @@
 ||Search profile||hei||-||
 
 = Boats =
+<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Boats.png >
+
 ||View boat||jnt||-||
 ||Browse boats||jnt||-||
 ||Add boat||jnt||-||
@@ -24,6 +26,8 @@
 ||Unlock boat||jnt||-||
 
 = Members = 
+<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Members.png >
+
 ||Import members||wal||x||
 ||Add member||wal||x||
 ||Edit member||wal||x||
@@ -32,6 +36,8 @@
 ||Delete member||wal||x||
 
 = Routes = 
+<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Routes.png >
+
 ||Browse routes||da||x||
 ||Add route||da||x||
 ||View route||da||x||
@@ -40,6 +46,8 @@
 ||Delete route||da||x||
 
 = Statistics =
+<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Statistics.png >
+
 ||Personal year statistic||-||-||
 ||Member km highscore year list||-||-||
 ||Member month statistic||-||-||
@@ -51,6 +59,8 @@
 ||Boatdamages Year Statistic||-||-||
 
 = Trips =
+<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Trips.png >
+
 ||Browse Personal Trips||-||-||
 ||Browse Personal Open Trips||-||-||
 ||Brwose Open Trips||-||-||
@@ -64,11 +74,15 @@
 ||Create page menu||-||-||
 
 = Boat damages =
+<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatDamages.png >
+
 ||Browse damages||da||-||
 ||Log damaged boat||da||-||
 ||Edit damage||da||-||
 
 = Boat reservations =
+<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatReservations.png >
+
 ||Browse reservations||gef||-||
 ||Add reservation||gef||-||
 ||Delete reservation||gef||-||
