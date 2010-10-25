@@ -77,9 +77,10 @@
 = Boat damages =
 <img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatDamages.png >
 
-||Browse damages||da||-||
-||Log damaged boat||da||-||
-||Edit damage||da||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/browseDamages.png Browse Damages]||da||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Log Damaged Boat]||da||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Edit Damage]||da||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png View Damage]||da||x||
 
 = Boat reservations =
 <img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatReservations.png >
