@@ -22,7 +22,7 @@
 ||Unlock boat||-||-||
 
 = Members = 
-||Import members||wal||-||
+||Import members||wal||x||
 ||Add member||wal||x||
 ||Edit member||wal||-||
 ||Deactivate member||wal||-||
