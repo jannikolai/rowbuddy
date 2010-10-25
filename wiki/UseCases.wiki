@@ -86,5 +86,5 @@
 <img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatReservations.png >
 
 ||Browse reservations||gef||-||
-||Add reservation||gef||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/boote_reservieren.png Add reservation]||gef||x||
 ||Delete reservation||gef||-||
