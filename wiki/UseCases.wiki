@@ -27,15 +27,15 @@
 ||Edit member||wal||x||
 ||Deactivate member||wal||x||
 ||Activate member||wal||x||
-||Delete member||wal||-||
+||Delete member||wal||x||
 
 = Routes = 
-||Browse routes||da||-||
-||Add route||da||-||
-||View route||da||-||
-||Edit open route||da||-||
-||Edit route||da||-||
-||Delete route||da||-||
+||Browse routes||da||x||
+||Add route||da||x||
+||View route||da||x||
+||Edit open route||da||x||
+||Edit route||da||x||
+||Delete route||da||x||
 
 = Statistics =
 ||Personal year statistic||-||-||
