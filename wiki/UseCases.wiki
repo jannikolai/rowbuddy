@@ -45,7 +45,6 @@
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png Edit Open Route]||da||x||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png Edit Route]||da||x||
 ||||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/BrowseRemoveRoute.png Delete Route]||da||x||
-||da||x||
 
 = Statistics =
 <img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Statistics.png >
