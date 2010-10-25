@@ -22,12 +22,12 @@
 ||Unlock boat||-||-||
 
 = Members = 
-||Import members||-||-||
-||Add member||-||-||
-||Edit member||-||-||
-||Deactivate member||-||-||
-||Activate member||-||-||
-||Delete member||-||-||
+||Import members||wal||x||
+||Add member||wal||-||
+||Edit member||wal||-||
+||Deactivate member||wal||-||
+||Activate member||wal||-||
+||Delete member||wal||-||
 
 = Routes = 
 ||Browse routes||da||-||
