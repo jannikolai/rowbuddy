@@ -60,3 +60,13 @@
 
 = Menu =
 ||Create page menu||-||-||
+
+= Boat damages =
+||Browse damages||-||-||
+||Log damaged boat||-||-||
+||Edit damage||-||-||
+
+= Boat reservations
+||Browse reservations||-||-||
+||Add reservation||-||-||
+||Delete reservation||-||-||
