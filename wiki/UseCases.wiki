@@ -15,8 +15,8 @@
 = Boats =
 ||View boat||-||-||
 ||Browse boats||-||-||
-||Add boat||-||-||
-||Edit boat||-||-||
+||Add boat||jnt||-||
+||Edit boat||jnt||-||
 ||Delete boat||-||-||
 ||Lock boat||-||-||
 ||Unlock boat||-||-||
