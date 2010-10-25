@@ -40,11 +40,12 @@
 <img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Routes.png >
 
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/BrowseRemoveRoute.png Browse Route]||da||x||
-||Add route||da||x||
-||View route||da||x||
-||Edit open route||da||x||
-||Edit route||da||x||
-||Delete route||da||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png Add Route]||da||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png View Route]||da||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png Edit Open Route]||da||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png Edit Route]||da||x||
+||||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/BrowseRemoveRoute.png Delete Route]||da||x||
+||da||x||
 
 = Statistics =
 <img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Statistics.png >
