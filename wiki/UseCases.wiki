@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 
-= [http://rowbuddy.googlecode.com/svn/wiki/figures/use-cases/packages/BoatDamages.png Member Profile] =
+= [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/MemberProfiles.png Member Profile] =
 
 ||Use case||Who?||Done||
 ||Login||hei||-||
@@ -13,8 +13,7 @@
 ||Search profile||hei||-||
 ||Rowed routes||-||-||
 
-= Boats =
-<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Boats.png >
+= [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Boats.png Boats] =
 
 ||View boat||jnt||x||
 ||Browse boats||jnt||x||
