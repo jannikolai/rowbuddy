@@ -65,7 +65,7 @@
 ||Browse Personal Trips||wal||x||
 ||Browse Personal Open Trips||wal||x||
 ||Brwose Open Trips||wal||x||
-||Log rowed trip||-||-||
+||Log rowed trip||wal||-||
 ||Start rowing||-||-||
 ||Log damaged boat||-||-||
 ||Stop Rowing||-||-||
