@@ -1,8 +1,6 @@
 #summary One-sentence summary of this page.
 
-= Member Profile =
-
-<img src=http://rowbuddy.googlecode.com/svn/wiki/figures/use-cases/packages/BoatDamages.png >
+= [http://rowbuddy.googlecode.com/svn/wiki/figures/use-cases/packages/BoatDamages.png Member Profile] =
 
 ||Use case||Who?||Done||
 ||Login||hei||-||
