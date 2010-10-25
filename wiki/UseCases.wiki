@@ -25,12 +25,12 @@
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Members.png Members] = 
 
-||Import members||wal||x||
-||Add member||wal||x||
-||Edit member||wal||x||
-||Deactivate member||wal||x||
-||Activate member||wal||x||
-||Delete member||wal||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/importMember.png Import Members]||wal||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/addMember.png Add Members]||wal||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/editMember.png Edit Members]||wal||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/deactivateMember.png Deactivate Members]||wal||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/activateMember.png Activate Members]||wal||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/deleteMember.png Delete Members]||wal||x||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Routes.png Routes] = 
 
