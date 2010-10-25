@@ -2,7 +2,7 @@
 
 = Member Profile =
 
-<img src=http://rowbuddy.googlecode.com/svn/wiki/figures/use-cases/packages/BoatDamages.png >
+<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/MemberProfiles.png >
 
 ||Use case||Who?||Done||
 ||Login||hei||-||
@@ -80,6 +80,7 @@
 ||Browse damages||da||-||
 ||Log damaged boat||da||-||
 ||Edit damage||da||-||
+||View damage||-||-||
 
 = Boat reservations =
 <img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatReservations.png >
@@ -87,3 +88,4 @@
 ||Browse reservations||gef||-||
 ||Add reservation||gef||-||
 ||Delete reservation||gef||-||
+||View reservation||-||-||
