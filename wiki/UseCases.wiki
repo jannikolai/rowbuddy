@@ -9,11 +9,11 @@
 ||Change Password||-||-||
 ||Publish route on profile||-||-||
 ||Remove route from profile||-||-||
-||View profile||-||-||
+||View profile||-||-|hei|
 ||Search profile||-||-||
 
 = Boats =
-||View boat||-||-||
+||View boat||-||-|hei|
 ||Browse boats||-||-||
 ||Add boat||jnt||-||
 ||Edit boat||jnt||-||
