@@ -28,3 +28,22 @@
 ||Deactivate member||-||-||
 ||Activate member||-||-||
 ||Delete member||-||-||
+
+= Routes = 
+||Browse routes||-||-||
+||Add route||-||-||
+||View route||-||-||
+||Edit open route||-||-||
+||Edit route||-||-||
+||Delete route||-||-||
+
+= Statistics =
+||Personal year statistic||-||-||
+||Member km highscore year list||-||-||
+||Member month statistic||-||-||
+||Member km highscore month list||-||-||
+||Clubactivity Statistic / Month||-||-||
+||Clubactivity Statistic / Weekday||-||-||
+||Boat KM Highscore Year List||-||-||
+||Popular Routes||-||-||
+||Boatdamages Year Statistic||-||-||
