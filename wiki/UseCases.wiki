@@ -30,12 +30,12 @@
 ||Delete member||-||-||
 
 = Routes = 
-||Browse routes||-||-||
-||Add route||-||-||
-||View route||-||-||
-||Edit open route||-||-||
-||Edit route||-||-||
-||Delete route||-||-||
+||Browse routes||da||-||
+||Add route||da||-||
+||View route||da||-||
+||Edit open route||da||-||
+||Edit route||da||-||
+||Delete route||da||-||
 
 = Statistics =
 ||Personal year statistic||-||-||
