@@ -33,8 +33,7 @@
 ||Activate member||wal||x||
 ||Delete member||wal||x||
 
-= Routes = 
-<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Routes.png >
+= [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Routes.png Routes] = 
 
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/BrowseRemoveRoute.png Browse Route]||da||x||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png Add Route]||da||x||
@@ -43,8 +42,7 @@
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png Edit Route]||da||x||
 ||||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/BrowseRemoveRoute.png Delete Route]||da||x||
 
-= Statistics =
-<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Statistics.png >
+= [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Statistics.png Statistics] =
 
 ||Personal year statistic||-||-||
 ||Member km highscore year list||-||-||
@@ -56,8 +54,7 @@
 ||Popular Routes||-||-||
 ||Boatdamages Year Statistic||-||-||
 
-= Trips =
-<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Trips.png >
+= [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Trips.png Trips] =
 
 ||Browse Personal Trips||wal||x||
 ||Browse Personal Open Trips||wal||x||
@@ -71,16 +68,14 @@
 = Menu =
 ||Create page menu||-||-||
 
-= Boat damages =
-<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatDamages.png >
+= [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatDamages.png Boat damages] =
 
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/browseDamages.png Browse Damages]||da||x||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Log Damaged Boat]||da||x||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Edit Damage]||da||x||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png View Damage]||da||x||
 
-= Boat reservations =
-<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatReservations.png >
+= [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatReservations.png Boat reservations] =
 
 ||Browse reservations||gef||-||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/boote_reservieren.png Add reservation]||gef||x||
