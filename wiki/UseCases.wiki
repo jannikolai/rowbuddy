@@ -3,17 +3,17 @@
 = Member Profile =
 
 ||Use case||Who?||Done||
-||Login||-||-||
-||Logout||-||-||
-||Request new Password||-||-||
-||Change Password||-||-||
-||Publish route on profile||-||-||
-||Remove route from profile||-||-||
+||Login||hei||-||
+||Logout||hei||-||
+||Request new Password||hei||-||
+||Change Password||hei||-||
+||Publish route on profile||hei||-||
+||Remove route from profile||hei||-||
 ||View profile||hei||-||
-||Search profile||-||-||
+||Search profile||hei||-||
 
 = Boats =
-||View boat||hei||-||
+||View boat||-||-||
 ||Browse boats||-||-||
 ||Add boat||jnt||-||
 ||Edit boat||jnt||-||
