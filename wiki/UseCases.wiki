@@ -64,9 +64,9 @@
 ||Create page menu||-||-||
 
 = Boat damages =
-||Browse damages||-||-||
-||Log damaged boat||-||-||
-||Edit damage||-||-||
+||Browse damages||da||-||
+||Log damaged boat||da||-||
+||Edit damage||da||-||
 
 = Boat reservations =
 ||Browse reservations||gef||-||
