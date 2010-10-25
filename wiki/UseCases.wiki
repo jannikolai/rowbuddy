@@ -23,8 +23,7 @@
 ||Lock boat||jnt||x||
 ||Unlock boat||jnt||x||
 
-= Members = 
-<img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Members.png >
+= [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Members.png Members] = 
 
 ||Import members||wal||x||
 ||Add member||wal||x||
