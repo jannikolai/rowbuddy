@@ -1,0 +1,22 @@
+#summary One-sentence summary of this page.
+
+= Member Profile =
+
+||Use case||Who?||Done||
+||Login||-||-||
+||Logout||-||-||
+||Request new Password||-||-||
+||Change Password||-||-||
+||Publish route on profile||-||-||
+||Remove route from profile||-||-||
+||View profile||-||-||
+||Search profile||-||-||
+
+= Boats =
+||View boat||-||-||
+||Browse boats||-||-||
+||Add boat||-||-||
+||Edit boat||-||-||
+||Delete boat||-||-||
+||Lock boat||-||-||
+||Unlock boat||-||-||
