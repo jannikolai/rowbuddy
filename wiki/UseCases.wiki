@@ -59,10 +59,10 @@
 ||Browse Personal Open Trips||wal||x||
 ||Brwose Open Trips||wal||x||
 ||Log rowed trip||wal||x||
-||Start rowing||wal||-||
+||Start rowing||wal||x||
 ||Log damaged boat||-||-||
-||Stop Rowing||-||-||
-||Edit Trip||-||-||
+||Stop Rowing||wal||x||
+||Edit Trip||wal||x||
 
 = Menu =
 ||Create page menu||-||-||
