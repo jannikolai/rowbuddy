@@ -9,7 +9,6 @@
 ||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/change_password.png Change password]||hei||x||
 ||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/browse_publish_depublish_rowed_routes.png Publish route on profile]||hei||x||
 ||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/browse_publish_depublish_rowed_routes.png Remove route from profile]||hei||x||
-
 ||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/view_profile.png View profile]||hei||x||
 ||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/search_profle.png Search profile]||hei||x||
 ||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/20_member_profile/browse_publish_depublish_rowed_routes.png Rowed routes]||hei||x||
