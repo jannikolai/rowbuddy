@@ -18,13 +18,13 @@
 = Boats =
 <img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Boats.png >
 
-||View boat||jnt||-||
-||Browse boats||jnt||-||
-||Add boat||jnt||-||
-||Edit boat||jnt||-||
-||Delete boat||jnt||-||
-||Lock boat||jnt||-||
-||Unlock boat||jnt||-||
+||View boat||jnt||x||
+||Browse boats||jnt||x||
+||Add boat||jnt||x||
+||Edit boat||jnt||x||
+||Delete boat||jnt||x||
+||Lock boat||jnt||x||
+||Unlock boat||jnt||x||
 
 = Members = 
 <img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Members.png >
