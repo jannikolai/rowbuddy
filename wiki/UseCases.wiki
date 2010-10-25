@@ -20,3 +20,11 @@
 ||Delete boat||-||-||
 ||Lock boat||-||-||
 ||Unlock boat||-||-||
+
+= Members = 
+||Import members||-||-||
+||Add member||-||-||
+||Edit member||-||-||
+||Deactivate member||-||-||
+||Activate member||-||-||
+||Delete member||-||-||
