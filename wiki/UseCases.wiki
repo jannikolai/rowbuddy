@@ -2,6 +2,8 @@
 
 = Member Profile =
 
+<img src=http://rowbuddy.googlecode.com/svn/wiki/figures/use-cases/packages/BoatDamages.png >
+
 ||Use case||Who?||Done||
 ||Login||hei||-||
 ||Logout||hei||-||
@@ -27,15 +29,15 @@
 ||Edit member||wal||x||
 ||Deactivate member||wal||x||
 ||Activate member||wal||x||
-||Delete member||wal||x||
+||Delete member||wal||-||
 
 = Routes = 
-||Browse routes||da||x||
-||Add route||da||x||
-||View route||da||x||
-||Edit open route||da||x||
-||Edit route||da||x||
-||Delete route||da||x||
+||Browse routes||da||-||
+||Add route||da||-||
+||View route||da||-||
+||Edit open route||da||-||
+||Edit route||da||-||
+||Delete route||da||-||
 
 = Statistics =
 ||Personal year statistic||-||-||
