@@ -13,13 +13,13 @@
 ||Search profile||hei||-||
 
 = Boats =
-||View boat||-||-||
+||View boat||jnt||-||
 ||Browse boats||-||-||
 ||Add boat||jnt||-||
 ||Edit boat||jnt||-||
-||Delete boat||-||-||
-||Lock boat||-||-||
-||Unlock boat||-||-||
+||Delete boat||jnt||-||
+||Lock boat||jnt||-||
+||Unlock boat||jnt||-||
 
 = Members = 
 ||Import members||wal||x||
