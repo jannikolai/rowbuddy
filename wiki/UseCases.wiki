@@ -62,9 +62,9 @@
 = Trips =
 <img src=http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Trips.png >
 
-||Browse Personal Trips||wal||-||
-||Browse Personal Open Trips||-||-||
-||Brwose Open Trips||-||-||
+||Browse Personal Trips||wal||x||
+||Browse Personal Open Trips||wal||x||
+||Brwose Open Trips||wal||x||
 ||Log rowed trip||-||-||
 ||Start rowing||-||-||
 ||Log damaged boat||-||-||
