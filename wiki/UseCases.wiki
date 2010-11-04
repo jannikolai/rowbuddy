@@ -76,6 +76,7 @@
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatReservations.png Boat reservations] =
 
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/add_reservation.png Browse reservations]||gef||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/browse_reservations.png Browse reservations]||gef||x||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/add_reservation.png Add reservation]||gef||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/edit_reservation.png Edit reservations]||gef||x||
 ||Delete reservation||gef||-||
