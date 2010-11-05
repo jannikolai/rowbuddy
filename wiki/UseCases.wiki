@@ -43,15 +43,15 @@
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Statistics.png Statistics] =
 
-||Personal year statistic||-||-||
-||Member km highscore year list||-||-||
-||Member month statistic||-||-||
-||Member km highscore month list||-||-||
-||Clubactivity Statistic / Month||-||-||
-||Clubactivity Statistic / Weekday||-||-||
-||Boat KM Highscore Year List||-||-||
-||Popular Routes||-||-||
-||Boatdamages Year Statistic||-||-||
+||Personal year statistic||jnt||-||
+||Member km highscore year list||jnt||-||
+||Member month statistic||jnt||-||
+||Member km highscore month list||jnt||-||
+||Clubactivity Statistic / Month||jnt||-||
+||Clubactivity Statistic / Weekday||jnt||-||
+||Boat KM Highscore Year List||jnt||-||
+||Popular Routes||jnt||-||
+||Boatdamages Year Statistic||jnt||-||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Trips.png Trips] =
 
@@ -65,7 +65,7 @@
 ||Edit Trip||wal||x||
 
 = Menu =
-||Create page menu||-||-||
+||Create page menu||jnt||-||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatDamages.png Boat damages] =
 
