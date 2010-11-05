@@ -43,15 +43,15 @@
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Statistics.png Statistics] =
 
-||Personal year statistic||jnt||-||
-||Member km highscore year list||jnt||-||
-||Member month statistic||jnt||-||
-||Member km highscore month list||jnt||-||
-||Clubactivity Statistic / Month||jnt||-||
-||Clubactivity Statistic / Weekday||jnt||-||
-||Boat KM Highscore Year List||jnt||-||
-||Popular Routes||jnt||-||
-||Boatdamages Year Statistic||jnt||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/personal_year.png Personal year statistic]||jnt||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/highscore_year.png Member km highscore year] list||jnt||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/personal_month.png Member month statistic]||jnt||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/highscore_month.png Member km highscore month list]||jnt||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/clubactivity_month.png Clubactivity Statistic / Month]||jnt||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/clubactivity_weekday.png Clubactivity Statistic / Weekday]||jnt||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/highscore_boats.png Boat KM Highscore Year List]||jnt||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/popular_routes.png Popular Routes]||jnt||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/boatdamages_year.png Boatdamages Year Statistic]||jnt||x||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Trips.png Trips] =
 
