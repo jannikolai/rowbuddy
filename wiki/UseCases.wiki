@@ -44,7 +44,7 @@
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Statistics.png Statistics] =
 
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/personal_year.png Personal year statistic]||jnt||x||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/highscore_year.png Member km highscore year] list||jnt||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/highscore_year.png Member km highscore year list]||jnt||x||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/personal_month.png Member month statistic]||jnt||x||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/highscore_month.png Member km highscore month list]||jnt||x||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/clubactivity_month.png Clubactivity Statistic / Month]||jnt||x||
