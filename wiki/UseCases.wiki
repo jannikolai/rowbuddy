@@ -64,8 +64,8 @@
 ||Stop Rowing||wal||x||
 ||Edit Trip||wal||x||
 
-= Menu =
-||Create page menu||jnt||-||
+= [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/navigationDiagram.png Menu] =
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents//30_gui/menu.png Create page menu]||jnt||x||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatDamages.png Boat damages] =
 
