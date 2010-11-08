@@ -1,0 +1,62 @@
+#summary Describes the deployment process
+
+= Manual =
+
+== Install eclipse subversion plugin ==
+  #  Help -> Eclipse Marketplace
+  #  Choose Eclipse Marketplace
+  #  Search for subversion
+  # Install Subversive 
+  #  Restart Eclipse
+  # On startup you are asked to install a svn connector -> choose SVN Kit 1.3.3
+  #  Restart Eclipse	
+  # Checkout sources:
+	a.Window -> Open Perspective -> Others -> SVN Repository Exploring
+
+	b.Press the "Plus" icon -> Enter Repos data + authentication data
+
+	c.Open repos -> Open Trunk -> select all ear, ejb and web project -> right click "checkout as"
+
+	d. Select "check out following repository resources as projects"
+
+	e.Finish
+== Install Glassfish runtime plugin == 
+  #  Help -> Eclipse Marketplace
+  #  Choose Eclipse Marketplace
+  #  Search for glassfish and install "GlassFish Java EE Aplication Server Plugin" 
+  # Restart Eclipse
+  # Open server tab (Bottom of eclipse jee perspective)
+  #  Right Click -> new Server
+  #  Choose Glassfish 3
+  #  Browse your glassfish install dir (e.g. /Application/glassfish-3.0.1/glassfish)
+  # Add the Ear project to the server
+
+== Install GWT Plugin ==
+  #  Help -> Eclipse Marketplace
+  #  Choose Eclipse Marketplace
+  #  Search for "gwt" and install "google Plugin for Eclipse"
+  #  Restart Eclipse
+== Install Derby Plugin ==
+  #   Download plugin: http://db.apache.org/derby/derby_downloads.html -> Latest Version ->derby_core_plugin_XXX  AND derby_ui_doc_plugin_XXX
+  #  Extract the zip files into your ECLIPSE_HOME/plugins folder
+  #  Restart Eclipse
+
+== Fix Projects ==
+  # Open Ejb project properties
+  # Click on Java Build Path -> Libraries and fix JRE system Library entry by edit this record
+  # Repeat 2. for the web project
+  # Click on Project -> Clean
+  # Run Ear File
+	a. Start Derby DB by Right click on EJB Project -> Apache Derby -> Add Apache Derby nature instance (The plugin will now create a database folder within the ejb project Hint:Do not commit these files!)
+	b. Right click on EJB Project -> Apache Derby -> Start Derby Network server
+	c. Right click on ear project -> run on server -> choose glassfish and start
+	
+== SetUp development environment ==
+  #  Enable Hot deploy: Server -> Right click on Glassfish -> Publishing -> Automatical publish when resources change
+  #  Development mode for GWT: Right click on web project -> run on external Server -> Enter the following information:
+||Server root||http://localhost:8080/Web_Project/||
+||Matching items||welcomeGWT.html||
+  #  Look for Development Tab and copy the url
+  #  Paste the url into your firefox (plugin is required; don't worry you will be asked to install)
+  #  If you receive some errors in your browser and google console: Right click on Web Project -> google -> GWT compile (This may required for first startup!)
+  #  GWT hot deploy should work
