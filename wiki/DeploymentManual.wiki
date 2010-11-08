@@ -56,6 +56,7 @@
   #  Development mode for GWT: Right click on web project -> run on external Server -> Enter the following information:
 ||Server root||http://localhost:8080/Web_Project/||
 ||Matching items||welcomeGWT.html||
+
   #  Look for Development Tab and copy the url
   #  Paste the url into your firefox (plugin is required; don't worry you will be asked to install)
   #  If you receive some errors in your browser and google console: Right click on Web Project -> google -> GWT compile (This may required for first startup!)
