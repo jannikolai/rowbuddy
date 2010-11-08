@@ -51,7 +51,7 @@
 	b. Right click on EJB Project -> Apache Derby -> Start Derby Network server
 	c. Right click on ear project -> run on server -> choose glassfish and start
 	
-== SetUp development environment ==
+== !SetUp development environment ==
   #  Enable Hot deploy: Server -> Right click on Glassfish -> Publishing -> Automatical publish when resources change
   #  Development mode for GWT: Right click on web project -> run on external Server -> Enter the following information:
 ||Server root||http://localhost:8080/Web_Project/||
