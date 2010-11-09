@@ -5,3 +5,5 @@ Lydia und Daniel: Menu, Pageview (Remember: Control Elements), Klassendiagramm, 
 Jan: Designguidelines 2 Wiki, Mockups aktualisieren
 
 Sebastian: Schlüssel wegbringen, GWT Trips
+
+ALLE: GWT / Eclipse Project zum laufen bringen
