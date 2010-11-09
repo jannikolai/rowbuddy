@@ -1,4 +1,7 @@
 Georg: Domain Model -> Code
+
 Lydia und Daniel: Menu, Pageview (Remember: Control Elements), Klassendiagramm, Boat bezogen
+
 Jan: Designguidelines 2 Wiki, Mockups aktualisieren
+
 Sebastian: Schlüssel wegbringen, GWT Trips
