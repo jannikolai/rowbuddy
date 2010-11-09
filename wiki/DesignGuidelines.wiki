@@ -9,5 +9,6 @@
  * No Popups are used in detailviews
  * Before Deleting, always a security warning is displayed (Popup)
  * Forms always have a Reset-Button
+  * Except for editing Forms. These have a Cancel-Button
  * Statusbar at the top of the page, which shows information (green) and errors (red)
  * Every Mockup has buttons
