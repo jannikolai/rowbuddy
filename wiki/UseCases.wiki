@@ -65,17 +65,17 @@
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/editTrip.png Edit Trip]||wal||x||65||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/navigationDiagram.png Menu] =
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/menu.png Create page menu]||jnt||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/menu.png Create page menu]||jnt||x||98||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatDamages.png Boat damages] =
 
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/browseDamages.png Browse Damages]||da||x||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Log Damaged Boat]||da||x||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Edit Damage]||da||x||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png View Damage]||da||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/browseDamages.png Browse Damages]||da||x||15||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Log Damaged Boat]||da||x||50||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Edit Damage]||da||x||30||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png View Damage]||da||x||50||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatReservations.png Boat reservations] =
 
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/browse_reservations.png Browse / delete reservations]||gef||x||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/add_reservation.png Add reservation]||gef||x||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/edit_reservation.png Edit / view / delete reservation]||gef||x||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/browse_reservations.png Browse / delete reservations]||gef||x||1||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/add_reservation.png Add reservation]||gef||x||1||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/edit_reservation.png Edit / view / delete reservation]||gef||x||1||
