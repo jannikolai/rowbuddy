@@ -61,3 +61,7 @@
   #  Paste the url into your firefox (plugin is required; don't worry you will be asked to install)
   #  If you receive some errors in your browser and google console: Right click on Web Project -> google -> GWT compile (This may required for first startup!)
   #  GWT hot deploy should work
+
+== !UnitTesting EJB Project ==
+  #  Adjust the classpath variable to your Embedded Glassfish jar. This file is typically located under %glassfish_home%\glassfish\lib\embedded\glassfish-embedded-static-shell.jar. The setting has to be made in the EJB project in Eclipse. Window->Preferences->Java->Build Path->Classpath Variables: EMBEDDED_GLASSFISH. 
+  #  In order to run the tests click on a test (e.g. BoatTest) and choose RightClick->Run as->JUnit Test
