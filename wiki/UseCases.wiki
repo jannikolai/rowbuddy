@@ -20,8 +20,8 @@
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/new_boat.png Add boat]||jnt||x||85||v||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/edit_boat.png Edit boat]||jnt||x||85||v||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/delete_boat.png Delete boat]||jnt||x||80||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/view_boat.png Lock boat]||jnt||x||30||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/view_boat.png Unlock boat]||jnt||x||30||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/view_boat.png Lock boat]||jnt||x||30||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/view_boat.png Unlock boat]||jnt||x||30||v||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Members.png Members] = 
 
