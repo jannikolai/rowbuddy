@@ -70,9 +70,9 @@
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatDamages.png Boat damages] =
 
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/browseDamages.png Browse Damages]||da||x||15||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Log Damaged Boat]||da||x||50||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Edit Damage]||da||x||30||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png View Damage]||da||x||50||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Log Damaged Boat]||da||x||50||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Edit Damage]||da||x||30||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png View Damage]||da||x||50||v||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatReservations.png Boat reservations] =
 
