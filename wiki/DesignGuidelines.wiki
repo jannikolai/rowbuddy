@@ -1,7 +1,7 @@
 = Design Guidelines for GUI Development =
 
  * Buttons: OK on the left, Cancel on the right side
- * Buttons: Always at the bottom of the page
+ * Buttons: Always at the top of the page
  * "Ja / Nein" are always marked with Checkboxes (also if it is only a view)
  * no Paging
  * Search is always positioned at the top left
