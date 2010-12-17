@@ -2,10 +2,10 @@
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/MemberProfiles.png Member Profile] =
 
-||Use case||Who?||Done||Weight||Implemented||
+||Use case||Done||Weight||Implemented||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/login.png Login]||x||6||v||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/logout.png Logout]||x||5||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/request_new_password.png Request new password]||hei||x||1||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/request_new_password.png Request new password]||x||1||-||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/change_password.png Change password]||x||1||-||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Publish route on profile]||x||10||-||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Remove route from profile]||x||10||-||
