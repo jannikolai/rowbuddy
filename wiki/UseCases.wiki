@@ -55,10 +55,10 @@
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Trips.png Trips] =
 
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browsePersonalTrips.png Browse Personal Trips||70||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browsePersonalTrips.png Browse Personal Trips]||70||v||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browseOpenPersonalTrips.png Browse Personal Open Trips]||65||v||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browseOpenTrips.png Browse Open Trips]||72||v||
-||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/60_trips/logRowedTrip.png Log rowed trip]||x||95||v||
+||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/60_trips/logRowedTrip.png Log rowed trip]||95||v||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/startRowing.png Start rowing]||75||v||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/logDamageboat.png Log damaged boat]||35||v||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/stopRowing.png Stop Rowing]||75||v||
