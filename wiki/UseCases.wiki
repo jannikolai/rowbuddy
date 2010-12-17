@@ -3,79 +3,79 @@
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/MemberProfiles.png Member Profile] =
 
 ||Use case||Who?||Done||Weight||Implemented||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/login.png Login]||hei||x||6||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/logout.png Logout]||hei||x||5||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/login.png Login]||x||6||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/logout.png Logout]||x||5||v||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/request_new_password.png Request new password]||hei||x||1||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/change_password.png Change password]||hei||x||1||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Publish route on profile]||hei||x||10||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Remove route from profile]||hei||x||10||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/view_profile.png View profile]||hei||x||15||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/search_profle.png Search profile]||hei||x||14||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Rowed routes]||hei||x||20||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/change_password.png Change password]||x||1||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Publish route on profile]||x||10||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Remove route from profile]||x||10||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/view_profile.png View profile]||x||15||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/search_profle.png Search profile]||x||14||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/20_member_profile/export/browse_publish_depublish_rowed_routes.png Rowed routes]||x||20||-||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Boats.png Boats] =
 
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/view_boat.png View boat]||jnt||x||85||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/browse_boats.png Browse boats]||jnt||x||85||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/new_boat.png Add boat]||jnt||x||85||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/edit_boat.png Edit boat]||jnt||x||85||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/delete_boat.png Delete boat]||jnt||x||80||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/view_boat.png Lock boat]||jnt||x||30||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/view_boat.png Unlock boat]||jnt||x||30||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/view_boat.png View boat]||x||85||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/browse_boats.png Browse boats]||x||85||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/new_boat.png Add boat]||x||85||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/edit_boat.png Edit boat]||x||85||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/delete_boat.png Delete boat]||x||80||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/view_boat.png Lock boat]||x||30||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/30_boats/view_boat.png Unlock boat]||x||30||v||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Members.png Members] = 
 
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/importMember.png Import Members]||wal||x||35||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/addMember.png Add Members]||wal||x||40||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/editMember.png Edit Members]||wal||x||40||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/deactivateMember.png Deactivate Members]||wal||x||38||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/activateMember.png Activate Members]||wal||x||38||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/deleteMember.png Delete Members]||wal||x||38||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/importMember.png Import Members]||x||35||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/addMember.png Add Members]||x||40||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/editMember.png Edit Members]||x||40||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/deactivateMember.png Deactivate Members]||x||38||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/activateMember.png Activate Members]||x||38||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/40_members/deleteMember.png Delete Members]||x||38||-||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Routes.png Routes] = 
 
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/BrowseRemoveRoute.png Browse Route]||da||x||60||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png Add Route]||da||x||62||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png View Route]||da||x||58||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png Edit Open Route]||da||x||56||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png Edit Route]||da||x||60||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/BrowseRemoveRoute.png Delete Route]||da||x||55||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/BrowseRemoveRoute.png Browse Route]||x||60||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png Add Route]||x||62||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png View Route]||x||58||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png Edit Open Route]||x||56||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/AddEditViewRoute.png Edit Route]||x||60||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/10_route/BrowseRemoveRoute.png Delete Route]||x||55||v||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Statistics.png Statistics] =
 
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/personal_year.png Personal year statistic]||jnt||x||1||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/personal_year.png Personal year statistic]||x||1||-||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/highscore_year.png Member km highscore year list]||jnt||x||1||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/personal_month.png Member month statistic]||jnt||x||1||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/highscore_month.png Member km highscore month list]||jnt||x||1||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/clubactivity_month.png Clubactivity Statistic / Month]||jnt||x||1||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/clubactivity_weekday.png Clubactivity Statistic / Weekday]||jnt||x||1||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/highscore_boats.png Boat KM Highscore Year List]||jnt||x||1||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/popular_routes.png Popular Routes]||jnt||x||1||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/boatdamages_year.png Boatdamages Year Statistic]||jnt||x||1||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/personal_month.png Member month statistic]||x||1||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/highscore_month.png Member km highscore month list]||x||1||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/clubactivity_month.png Clubactivity Statistic / Month]||x||1||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/clubactivity_weekday.png Clubactivity Statistic / Weekday]||x||1||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/highscore_boats.png Boat KM Highscore Year List]||x||1||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/popular_routes.png Popular Routes]||x||1||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/50_statistics/boatdamages_year.png Boatdamages Year Statistic]||x||1||-||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/Trips.png Trips] =
 
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browsePersonalTrips.png Browse Personal Trips]||wal||x||70||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browseOpenPersonalTrips.png Browse Personal Open Trips]||wal||x||65||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browseOpenTrips.png Browse Open Trips]||wal||x||72||-||
-||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/60_trips/logRowedTrip.png Log rowed trip]||wal||x||95||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/startRowing.png Start rowing]||wal||x||75||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/logDamageboat.png Log damaged boat]||wal||x||35||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/stopRowing.png Stop Rowing]||wal||x||75||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/editTrip.png Edit Trip]||wal||x||65||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browsePersonalTrips.png Browse Personal Trips]||x||70||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browseOpenPersonalTrips.png Browse Personal Open Trips]||x||65||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browseOpenTrips.png Browse Open Trips]||x||72||-||
+||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/60_trips/logRowedTrip.png Log rowed trip]||x||95||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/startRowing.png Start rowing]||x||75||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/logDamageboat.png Log damaged boat]||x||35||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/stopRowing.png Stop Rowing]||x||75||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/editTrip.png Edit Trip]||x||65||-||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/navigationDiagram.png Menu] =
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/menu.png Create page menu]||jnt||x||98||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/menu.png Create page menu]||x||98||v||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatDamages.png Boat damages] =
 
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/browseDamages.png Browse Damages]||da||x||15||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Log Damaged Boat]||da||x||50||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Edit Damage]||da||x||30||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png View Damage]||da||x||50||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/browseDamages.png Browse Damages]||x||15||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Log Damaged Boat]||x||50||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png Edit Damage]||x||30||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/70_boat_damages/logDamagedBoat.png View Damage]||x||50||v||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/use-cases/packages/BoatReservations.png Boat reservations] =
 
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/browse_reservations.png Browse / delete reservations]||gef||x||1||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/add_reservation.png Add reservation]||gef||x||1||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/edit_reservation.png Edit / view / delete reservation]||gef||x||1||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/browse_reservations.png Browse / delete reservations]||x||1||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/add_reservation.png Add reservation]||x||1||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/80_boat_reservations/edit_reservation.png Edit / view / delete reservation]||x||1||-||
