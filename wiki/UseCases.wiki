@@ -57,12 +57,12 @@
 
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browsePersonalTrips.png Browse Personal Trips]||x||70||v||
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browseOpenPersonalTrips.png Browse Personal Open Trips]||x||65||v||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browseOpenTrips.png Browse Open Trips]||x||72||-||
-||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/60_trips/logRowedTrip.png Log rowed trip]||x||95||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/startRowing.png Start rowing]||x||75||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/logDamageboat.png Log damaged boat]||x||35||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/stopRowing.png Stop Rowing]||x||75||-||
-||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/editTrip.png Edit Trip]||x||65||-||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/browseOpenTrips.png Browse Open Trips]||x||72||v||
+||[http://code.google.com/p/rowbuddy/source/browse/trunk/10_documents/30_gui/60_trips/logRowedTrip.png Log rowed trip]||x||95||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/startRowing.png Start rowing]||x||75||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/logDamageboat.png Log damaged boat]||x||35||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/stopRowing.png Stop Rowing]||x||75||v||
+||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/60_trips/editTrip.png Edit Trip]||x||65||v||
 
 = [http://rowbuddy.googlecode.com/svn/trunk/10_documents/20_diagrams/export/navigationDiagram.png Menu] =
 ||[http://rowbuddy.googlecode.com/svn/trunk/10_documents/30_gui/menu.png Create page menu]||x||98||v||
